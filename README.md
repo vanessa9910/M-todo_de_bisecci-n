@@ -1,1 +1,1 @@
-# Método_de_bisección
+# Método de bisección
