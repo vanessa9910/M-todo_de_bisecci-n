@@ -1,1 +1,1 @@
-# M-todo_de_bisecci-n
+# Método_de_bisección
