@@ -1,6 +1,3 @@
 # Método de bisección
 
-Este tipo de metodo es utilizado para resolver problemas de una sola variable. Consiste en ir dividiendo la función 
-en subintervalos e ir encontrando los puntos medios de cada uno. Este codigo nos permite encontrar una solución 
-a una ecuación de una sola variable con un error designado. Por lo tanto consiste en encontrar un intervalo donde la 
-función contenga un cambio de signo e ir dividiendo de mitad en mitad hasta llegar a el error deseado.
+El método de bisección es un algoritmo de búsqueda de raíces que trabaja dividiendo el intervalo a la mitad y seleccionando el subintervalo que tiene la raíz.Esto se logra llevar a cabo a través de varias interaciones que son aplicadas en un intervalo para por medio de ello encontrar la raíz de la función. Este es uno de los métodos mas sencillos y de fácil intuición para resolver ecuaciones en una variable, también conocido como método del intervalo medio, este se basa en el teorema del valor intermedio, el cual establece que toda función continua f  en un intervalo cerrado [a,b] toma todos los valores que se hallan entre f(a) y f(b).
